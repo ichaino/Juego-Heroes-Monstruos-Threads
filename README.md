@@ -4,15 +4,6 @@
 
 Proyecto académico que implementa una simulación de un héroe y múltiples monstruos en un tablero, utilizando **hilos (threads)** y mecanismos de **sincronización con mutex** para gestionar la concurrencia entre los participantes.
 
-## Integrantes
-
-* **José Avello**
-* **Álvaro Valdebenito**
-
-**Asignatura:** Sistemas Operativos
-**Sección:** 01
-**Profesor:** Yerko Ortiz
-
 ## Contenido
 
 * `Juego_SO.c`: código fuente de la simulación.
